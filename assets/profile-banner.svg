@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Mohammed Abushaban — Software Engineering, Data and Automation</title>
+<desc id="desc">Navy banner with teal geometric lines and the statement: Analytical thinking. Practical engineering.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101C30"/><stop offset="1" stop-color="#172F42"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity=".035"/></pattern>
+</defs>
+<rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+<rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+<rect x="56" y="55" width="44" height="4" rx="2" fill="#5EEAD4"/>
+<g font-family="Segoe UI, Arial, sans-serif">
+<text x="56" y="111" fill="#5EEAD4" font-size="14" font-weight="600" letter-spacing="3">SOFTWARE · DATA · AUTOMATION</text>
+<text x="53" y="174" fill="#F8FAFC" font-size="48" font-weight="700" letter-spacing="-1.5">Mohammed Abushaban</text>
+<text x="56" y="219" fill="#CBD5E1" font-size="21">Analytical thinking. Practical engineering.</text>
+<text x="56" y="273" fill="#94A3B8" font-size="14" letter-spacing="1">BACKEND SYSTEMS / DATA ANALYTICS / WORKFLOW AUTOMATION</text>
+</g>
+<g fill="none" stroke="#5EEAD4">
+<circle cx="1010" cy="158" r="101" opacity=".16"/>
+<circle cx="1010" cy="158" r="68" opacity=".24"/>
+<path d="M895 229L958 119L1027 190L1109 74M895 229L1027 190L1120 231M958 119L1109 74L1120 231" stroke-width="1.5" opacity=".5"/>
+<path d="M872 263H1144M888 278V53" opacity=".15"/>
+</g>
+<g fill="#5EEAD4"><circle cx="895" cy="229" r="5"/><circle cx="958" cy="119" r="5"/><circle cx="1027" cy="190" r="6"/><circle cx="1109" cy="74" r="5"/><circle cx="1120" cy="231" r="5"/></g>
+</svg>
