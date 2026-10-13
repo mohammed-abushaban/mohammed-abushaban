@@ -1,83 +1,130 @@
-<h1 align="center">Hi, I'm Mohammed Abushaban 👋</h1>
-
 <p align="center">
-  <strong>Software Engineering · Data Analytics · Automation</strong><br>
-  Building reliable systems and turning operational data into useful decisions.
+  <img src="./assets/profile-banner.svg" width="100%" alt="Mohammed Abushaban — Software, Data and Automation. Analytical thinking. Practical engineering.">
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/m-aboushaaban/">LinkedIn</a> ·
-  <a href="https://github.com/mohammed-abushaban?tab=repositories">Explore my repositories</a>
+  <strong>Backend engineering &nbsp;·&nbsp; Data analytics &nbsp;·&nbsp; Intelligent workflows</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-aboushaaban/"><img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-0F766E?style=flat-square" alt="Connect on LinkedIn"></a>
+  &nbsp;
+  <a href="https://github.com/mohammed-abushaban?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Explore_my_work-334155?style=flat-square&amp;logo=github&amp;logoColor=white" alt="Explore my repositories"></a>
 </p>
 
 ---
 
-## About me
+## Engineering with an analytical mindset
 
-I'm a computer science graduate based in Gaza, Palestine, with experience across backend development, software verification, information management, and humanitarian logistics.
+I build backend services, automate workflows, and turn complex data into clear, useful information. My experience connects **software engineering at NVIDIA**, **health and nutrition analytics at International Medical Corps**, and **warehouse systems and reporting at the World Food Programme**.
 
-I've built APIs and business applications, automated testing and data workflows, and developed dashboards that help teams understand their operations. My experience spans **NVIDIA, International Medical Corps, and the World Food Programme**, alongside backend engineering roles at **TooPOP and FTC**.
+Based in **Gaza, Palestine**, I bring a computer science foundation, a strong habit of independent learning, and a practical understanding of the teams who use the systems I build.
 
-**Mathematics is one of my strongest foundations.** I ranked first in mathematics among Gaza high school students, and I bring that same analytical mindset to programming, data analysis, and problem solving. I enjoy understanding how things work, reading documentation, and learning independently.
+> **A foundation in mathematics**  
+> I ranked first in mathematics among Gaza high school students. That strength shapes how I approach algorithms, data quality, debugging, and complex problems: break them down, reason carefully, and validate the result.
 
-## What I work on
+## What I bring to a project
 
-- **Backend engineering:** REST APIs, database design, integrations, and business applications using C# / ASP.NET Core and Python.
-- **Data analytics:** Power BI dashboards, DAX, Power Query, data validation, and operational reporting.
-- **Automation & data pipelines:** Python, n8n, Power Automate, Azure Functions, and Blob Storage to connect systems and reduce repetitive work.
-- **Software verification:** Automated API, regression, and performance testing, with experience in Linux, Docker, Kubernetes, and network validation.
-- **Warehouse systems:** Data organization, system integration, inventory reporting, and capacity and utilization analysis.
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3>01 / Backend systems</h3>
+<p>APIs, business applications, and database integrations designed around real operational needs.</p>
+<p><sub>C# · ASP.NET Core · Python · FastAPI · SQL</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>02 / Data &amp; decisions</h3>
+<p>Dashboards, data models, and reporting workflows that make information easier to trust and act on.</p>
+<p><sub>Power BI · DAX · Power Query · pandas · Excel</sub></p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>03 / Workflow automation</h3>
+<p>Connected applications and repeatable data pipelines that reduce manual work and keep information moving.</p>
+<p><sub>n8n · Azure Functions · Blob Storage · Power Automate</sub></p>
+</td>
+<td width="50%" valign="top">
+<h3>04 / Quality &amp; reliability</h3>
+<p>Automated API, regression, and performance tests, supported by hands-on network validation experience.</p>
+<p><sub>pytest · Linux · Docker · Kubernetes · Selenium</sub></p>
+</td>
+</tr>
+</table>
 
-## Experience
+## Experience in practice
 
-| Organization | Role | Period |
-| --- | --- | --- |
-| **World Food Programme (WFP)** | Logistics Associate | Jul 2026 – Present |
-| **International Medical Corps (IMC)** | Information Management Officer / Data Analyst | Jan 2025 – Jun 2026 |
-| **International Medical Corps (IMC)** | Information / Help Desk Assistant | Sep 2024 – Jan 2025 |
-| **NVIDIA** · Remote | Software Verification Engineer | Sep 2022 – Jan 2024 |
-| **TooPOP** · Remote | Backend Engineer | Apr 2021 – Sep 2022 |
-| **FTC** · Remote | Backend Engineer | Oct 2019 – Mar 2021 |
+### World Food Programme
+**Logistics Associate** &nbsp;·&nbsp; Jul 2026 – Present
 
-### Currently at WFP
+Supporting Logistics Cluster warehouse operations through systems, data, and coordination.
 
-I support warehouse operations within the Logistics Cluster, combining operational coordination with systems and data work. My focus includes building warehouse systems, organizing and integrating data, preparing dashboards and movement reports, analyzing warehouse utilization, verifying attendance, and coordinating training.
+- Build warehouse systems and integrate operational data to support reporting and analysis.
+- Develop movement reports and capacity and utilization dashboards.
+- Support inventory planning, attendance verification, and staff training coordination.
 
-### Previously at IMC and NVIDIA
+### International Medical Corps
+**Information Management Officer / Data Analyst** &nbsp;·&nbsp; Jan 2025 – Jun 2026  
+**Information / Help Desk Assistant** &nbsp;·&nbsp; Sep 2024 – Jan 2025
 
-At **IMC**, I developed reporting and analytics workflows for health and nutrition programmes, including Ona.io integrations, data quality and deduplication logic, Power BI dashboards, and Azure-based data pipelines.
+- Built Power BI dashboards and reporting workflows for health and nutrition programmes.
+- Integrated Ona.io data with Python and Azure pipelines; developed validation and deduplication logic.
+- Supported data collection, community feedback, and information management.
 
-At **NVIDIA**, I worked on the NetQ team, developing and running automated tests for APIs, regression, performance, and network validation using Python and Linux-based environments.
+### NVIDIA
+**Software Verification Engineer · Remote** &nbsp;·&nbsp; Sep 2022 – Jan 2024
+
+- Worked on the **NetQ** team using Python and Linux-based environments.
+- Developed automated REST API, regression, and performance tests.
+- Performed network validation and throughput and latency benchmarking.
+
+<details>
+<summary><strong>Earlier experience · Backend engineering at TooPOP and FTC</strong></summary>
+
+<br>
+
+**TooPOP — Backend Engineer · Remote**  
+Apr 2021 – Sep 2022
+
+Developed hospital management and client applications using C#, ASP.NET Core, and MySQL, including REST APIs and payment integrations.
+
+**FTC — Backend Engineer · Remote**  
+Oct 2019 – Mar 2021
+
+Built backend services with Python and C#, integrated external systems, and worked on database optimization and automation.
+
+</details>
 
 ## Technical toolkit
 
-| Area | Technologies |
-| --- | --- |
+| Focus | Technologies |
+| :--- | :--- |
 | **Languages** | Python, C#, JavaScript, Java, SQL |
-| **Backend** | ASP.NET Core, FastAPI, Flask, Express.js, Entity Framework, REST APIs |
+| **Backend & APIs** | ASP.NET Core, FastAPI, Flask, Express.js, Entity Framework |
 | **Databases** | MySQL, PostgreSQL, SQL Server, MongoDB |
-| **Data & BI** | Power BI, DAX, Power Query, pandas, Excel, Ona.io, XLSForm |
-| **Cloud & automation** | Azure Functions, Azure Blob Storage, n8n, Power Automate |
-| **Testing** | pytest, Selenium, unittest, TestNG, API and performance testing |
-| **Development & infrastructure** | Git, GitHub, Gerrit, Linux, Docker, Kubernetes, Postman, Swagger |
+| **Analytics** | Power BI, DAX, Power Query, pandas, Excel |
+| **Automation & cloud** | n8n, Power Automate, Azure Functions, Azure Blob Storage |
+| **Testing & infrastructure** | pytest, Selenium, unittest, TestNG, Linux, Docker, Kubernetes |
+| **Tools & integrations** | Git, GitHub, Gerrit, Postman, Swagger, Ona.io, XLSForm |
 
-## Education
+## Learning & interests
 
-- **B.Sc. in Computer Science** — Islamic University of Gaza, 2018–2022.
-- **Software Engineering Bootcamp** — Hack Reactor, 2020; approximately 1,400 hours of intensive training.
+**B.Sc. Computer Science** — Islamic University of Gaza · 2018–2022  
+**Software Engineering Bootcamp** — Hack Reactor · 2020 · Approximately 1,400 hours
 
-## What I'm exploring
+I'm currently exploring **AI-assisted development and multi-agent coding workflows**, alongside **Odoo-based accounting and point-of-sale applications**. I'm also interested in the connections between **mathematics, finance, economics, and data**.
 
-- AI-assisted development and workflows that coordinate multiple coding agents.
-- Accounting and point-of-sale applications built on Odoo.
-- The connection between mathematics, finance, economics, and data.
+Away from the keyboard: martial arts and swimming.
 
-## Let's collaborate
+---
 
-I'm interested in remote and freelance opportunities involving **backend development, data analytics, automation, API integrations, and software testing**.
+<p align="center">
+  <strong>Have a system to build, a workflow to automate, or data to make sense of?</strong><br>
+  Open to remote and freelance work in backend development, analytics, automation, and software testing.<br><br>
+  <a href="https://www.linkedin.com/in/m-aboushaaban/"><strong>Let's connect on LinkedIn →</strong></a>
+</p>
 
-I enjoy projects where clear reasoning and practical engineering can make a measurable difference.
-
-**Languages:** Arabic (native) · English
-
-> Some of my professional work is covered by confidentiality agreements, so my public repositories represent only part of my experience.
+<p align="center">
+  <sub>Arabic (native) · English</sub><br>
+  <sub>Some professional work is confidential; public repositories reflect only part of my experience.</sub>
+</p>
