@@ -1,96 +1,83 @@
-<!-- ### Hi there 👋
+<h1 align="center">Hi, I'm Mohammed Abushaban 👋</h1>
 
-<!--
-**mohammed-abushaban/mohammed-abushaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
--->
-
-
-
-<p  align="center" ><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/63412382/126063427-00cb2639-cd03-447c-8d28-cec53c97fc89.gif"><img src="https://user-images.githubusercontent.com/63412382/126063427-00cb2639-cd03-447c-8d28-cec53c97fc89.gif" alt="Header" title="Header" style="max-width:150%;"></a></p>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mohammed-abushaban/count.svg" />
-</p>  
-<h2> Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-</br>
-
-### Overview.
-<p>Hi! I'm Web application developer, excellent analytical and design capabilities with a keen attention to detail and overall quality of end result, my goals are to continue to provide a high quality development service and to participate in successful projects. I'm specializing in the development of Back-End web applications and working on many applications, from simple api applications to microservises systems.
+<p align="center">
+  <strong>Software Engineering · Data Analytics · Automation</strong><br>
+  Building reliable systems and turning operational data into useful decisions.
 </p>
 
-### Languages
- * Arabic: Native.
- * Englsh: Fluent.
- 
- </br>
-<h5 align="center">
-  <code>
-    <a href="www.linkedin.com/in/m-aboushaaban/" title="LinkedIn Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/linkedin.svg"> LinkedIn</a></code>
-  <!-- <code><a href="https://leetcode.com/orashid303/" title="LeetCode Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/leetcode.svg"> LeetCode</a></code>
-  <code><a href="https://twitter.com/OsamaRR_" title="Twitter Profile" target="blank"><img width="22" src="https://github.com/M7Mansour/M7Mansour/blob/main/Pictures/twitter.svg"> Twitter</a></code>
-  <code><a href="https://www.hackerrank.com/orashid303?hr_r=1" title="Hacker Rank" target="blank"><img width="22" src="https://hrcdn.net/community-frontend/assets/favicon-ddc852f75a.png"> Hacker Rank</a></code> -->
-</h5>
-</br>
- 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=highcontrast&username=mohammed-abushaban)
-
-### Programing Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![NPM](https://img.shields.io/badge/-npm-000?&logo=npm)
-![NET]( https://img.shields.io/badge/-.NET-000?&logo=.NET)
-![Csharp](  https://img.shields.io/badge/-csharp-000?&logo=csharp)
-![GitHub](https://img.shields.io/badge/-GitHub-000?&logo=GitHub)
-![java](https://img.shields.io/badge/-Java-000?&logo=java&logoColor=4479A1)
-![python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Json](https://img.shields.io/badge/-Json-000?&logo=Json)
-![microsoftsqlserver](https://img.shields.io/badge/-Microsoft%20SQL%20Server-000?&logo=microsoftsqlserver)
-![microsoftsqlserver](https://img.shields.io/badge/-awsamplify-000?&logo=awsamplify)
-
-<p align=center>
-  <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-abushaban&layout=compact&theme=highcontrast" alt="M7Mansour" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-abushaban&theme=highcontrast" />
-    </a>
-  </div>
-  <br><br><br><br><br><br><br><br><br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/m-aboushaaban/">LinkedIn</a> ·
+  <a href="https://github.com/mohammed-abushaban?tab=repositories">Explore my repositories</a>
 </p>
 
+---
 
+## About me
 
-### Tools
-![VScode](https://img.shields.io/badge/-VSCode-000?&logo=VisualStudioCode&logoColor=007ACC)
-![Miro](https://img.shields.io/badge/-Miro-000?&logo=Miro)
-![Postman](https://img.shields.io/badge/-Postman-000?&logo=Postman)
-![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-![Apache NetBeans IDE](https://img.shields.io/badge/-apachenetbeanside-000?&logo=apachenetbeanside)
+I'm a computer science graduate based in Gaza, Palestine, with experience across backend development, software verification, information management, and humanitarian logistics.
 
-### I’m currently learning:
-![Nodejs](https://img.shields.io/badge/-NodeJs-000?&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
-![Micro Service](https://img.shields.io/badge/-Microservices%20Architecture-000)
+I've built APIs and business applications, automated testing and data workflows, and developed dashboards that help teams understand their operations. My experience spans **NVIDIA, International Medical Corps, and the World Food Programme**, alongside backend engineering roles at **TooPOP and FTC**.
 
+**Mathematics is one of my strongest foundations.** I ranked first in mathematics among Gaza high school students, and I bring that same analytical mindset to programming, data analysis, and problem solving. I enjoy understanding how things work, reading documentation, and learning independently.
 
-![Anurag's github stats](https://activity-graph.herokuapp.com/graph?username=mohammed-abushaban&theme=highcontrast&bg_color=000&hide_border=true)
+## What I work on
 
-<h4 align="center">
-  <a href="https://github.com/mohammed-abushaban" title="Show Repositories">🔎 Show More 🔍</a>
-</h4>
+- **Backend engineering:** REST APIs, database design, integrations, and business applications using C# / ASP.NET Core and Python.
+- **Data analytics:** Power BI dashboards, DAX, Power Query, data validation, and operational reporting.
+- **Automation & data pipelines:** Python, n8n, Power Automate, Azure Functions, and Blob Storage to connect systems and reduce repetitive work.
+- **Software verification:** Automated API, regression, and performance testing, with experience in Linux, Docker, Kubernetes, and network validation.
+- **Warehouse systems:** Data organization, system integration, inventory reporting, and capacity and utilization analysis.
 
-### 😜Here's a Joke for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+## Experience
+
+| Organization | Role | Period |
+| --- | --- | --- |
+| **World Food Programme (WFP)** | Logistics Associate | Jul 2026 – Present |
+| **International Medical Corps (IMC)** | Information Management Officer / Data Analyst | Jan 2025 – Jun 2026 |
+| **International Medical Corps (IMC)** | Information / Help Desk Assistant | Sep 2024 – Jan 2025 |
+| **NVIDIA** · Remote | Software Verification Engineer | Sep 2022 – Jan 2024 |
+| **TooPOP** · Remote | Backend Engineer | Apr 2021 – Sep 2022 |
+| **FTC** · Remote | Backend Engineer | Oct 2019 – Mar 2021 |
+
+### Currently at WFP
+
+I support warehouse operations within the Logistics Cluster, combining operational coordination with systems and data work. My focus includes building warehouse systems, organizing and integrating data, preparing dashboards and movement reports, analyzing warehouse utilization, verifying attendance, and coordinating training.
+
+### Previously at IMC and NVIDIA
+
+At **IMC**, I developed reporting and analytics workflows for health and nutrition programmes, including Ona.io integrations, data quality and deduplication logic, Power BI dashboards, and Azure-based data pipelines.
+
+At **NVIDIA**, I worked on the NetQ team, developing and running automated tests for APIs, regression, performance, and network validation using Python and Linux-based environments.
+
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| **Languages** | Python, C#, JavaScript, Java, SQL |
+| **Backend** | ASP.NET Core, FastAPI, Flask, Express.js, Entity Framework, REST APIs |
+| **Databases** | MySQL, PostgreSQL, SQL Server, MongoDB |
+| **Data & BI** | Power BI, DAX, Power Query, pandas, Excel, Ona.io, XLSForm |
+| **Cloud & automation** | Azure Functions, Azure Blob Storage, n8n, Power Automate |
+| **Testing** | pytest, Selenium, unittest, TestNG, API and performance testing |
+| **Development & infrastructure** | Git, GitHub, Gerrit, Linux, Docker, Kubernetes, Postman, Swagger |
+
+## Education
+
+- **B.Sc. in Computer Science** — Islamic University of Gaza, 2018–2022.
+- **Software Engineering Bootcamp** — Hack Reactor, 2020; approximately 1,400 hours of intensive training.
+
+## What I'm exploring
+
+- AI-assisted development and workflows that coordinate multiple coding agents.
+- Accounting and point-of-sale applications built on Odoo.
+- The connection between mathematics, finance, economics, and data.
+
+## Let's collaborate
+
+I'm interested in remote and freelance opportunities involving **backend development, data analytics, automation, API integrations, and software testing**.
+
+I enjoy projects where clear reasoning and practical engineering can make a measurable difference.
+
+**Languages:** Arabic (native) · English
+
+> Some of my professional work is covered by confidentiality agreements, so my public repositories represent only part of my experience.
